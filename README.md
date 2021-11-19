@@ -1,5 +1,7 @@
 # Data for 'Selective Control of Surface Spin Current in topological materials based on Pyrite-type OsX2 (X = Se, Te) Crystals'
 
+[![DOI](https://zenodo.org/badge/429838273.svg)](https://zenodo.org/badge/latestdoi/429838273)
+
 This repository provides the minimal data sets and codes associated with the publication [**Selective Control of Surface Spin Current in topological materials based on Pyrite-type OsX2 (X = Se, Te) Crystals**](https://www.nature.com/articles/s41535-019-0186-8), consisted of following:
 
 * Relaxed coordinates file (VASP POSCAR format) for OsSe2 (bulk and slab)
